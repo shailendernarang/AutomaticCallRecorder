@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "522479137203",
+    "firebase_url": "https://automatic-call-recorder-ddccd.firebaseio.com",
+    "project_id": "automatic-call-recorder-ddccd",
+    "storage_bucket": "automatic-call-recorder-ddccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522479137203:android:32da431f89aa529d",
+        "android_client_info": {
+          "package_name": "com.ss.automaticrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522479137203-kpe003q5is3ppr9drh16ue5ucdg3f712.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ss.automaticrecorder",
+            "certificate_hash": "06b2ba4388dff3b0e595365e3ea498623f4832c9"
+          }
+        },
+        {
+          "client_id": "522479137203-593sukc5g3gidtn7t82qo4vhnkhvo22e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ss.automaticrecorder",
+            "certificate_hash": "1f6ac83e370a94236e588e53d2c71a16932b5ff9"
+          }
+        },
+        {
+          "client_id": "522479137203-a8qbaka1m65h4sg628irjheiga1ij5si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCumJK0PhDCR85oLsr4N8O3YDo3rg6lOfw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522479137203-a8qbaka1m65h4sg628irjheiga1ij5si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
